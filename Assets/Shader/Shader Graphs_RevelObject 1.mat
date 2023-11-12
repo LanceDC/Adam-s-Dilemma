@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_RevelObject 1
+  m_Shader: {fileID: -6465566751694194690, guid: 0d50f42b04154eb4eb7ac93343b2c466,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7D33A70C:
+        m_Texture: {fileID: 2800000, guid: c5469153b3d95354fb68e1b6340408c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C43A303:
+        m_Texture: {fileID: 2800000, guid: 07bb1039d6dd6f04aabf274cae93ca6a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Vector2_6E8C1630: {r: 2, g: 0, b: 2, a: 0}
+    - _EffectPosition: {r: 16.182383, g: 1.7188593, b: -27.21138, a: 0}
+    - _Effector: {r: 100, g: 100, b: 100, a: 0}
+    - _PlaneNormal: {r: 1, g: 1, b: 1, a: 0}
+    - _PlanePosition: {r: 0, g: 0, b: 0, a: 0}
